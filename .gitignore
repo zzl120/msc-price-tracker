@@ -1,0 +1,5 @@
+prices_*.csv
+cron.log
+__pycache__/
+*.pyc
+.env
